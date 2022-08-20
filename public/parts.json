@@ -1,0 +1,75 @@
+[
+    {
+        "name":"KeyBoard",
+        "img":"https://i.ibb.co/Snd9qH3/keyboard.jpg",
+        "price":450,
+        "available":10000,
+        "discriptiom":"The right keyboard is the star of your desk set. Here's how to find your ideal, along with our top picks from our hands-on (obviously) reviews.",
+        "order":1000,
+        "id":1
+    },
+    {
+        "name":"Mouse",
+        "img":"https://i.ibb.co/P9B6qXw/mouse.jpg",
+        "price":350,
+        "available":15000,
+        "discriptiom":"Best quality Mouse price in Bangladesh. Discover a wide range of Mouse including RAZER, Apple, GAMDIAS & Logitech mouses at best price in Bangladesh.",
+        "order":1000,
+        "id":2
+    },
+    {
+        "name":"Pen Drive",
+        "img":"https://i.ibb.co/L8c2Jfc/pendrive.jpg",
+        "price":500,
+        "available":10000,
+        "discriptiom":"I am using both of 16gb and 32gb Sandisk Ultra Dual OTG Pendrives. Both are good and read & write speed are exactly the same thin in USB 3.0 and USB 2.0 Port.",
+        "order":1000,
+        "id":3
+    },
+    {
+        "name":"Charger Adavter",
+        "img":"https://i.ibb.co/gtMPBG2/laptop-charger-adapter.jpg",
+        "price":450,
+        "available":10000,
+        "discriptiom":"USB-C chargers can top up phones faster than older USB-A models can, and they work with both iPhones and Android devices.",
+        "order":1000,
+        "id":4
+        
+    },
+    {
+        "name":"Hard Drive",
+        "img":"https://i.ibb.co/yy25yg8/hard-drive.jpg",
+        "price":2000,
+        "available":5000,
+        "discriptiom":"hard disk, also called hard disk drive or hard drive, magnetic storage medium for a computer. Hard disks are flat circular plates made of aluminum or glass and coated with a magnetic material.",
+        "order":1000,
+        "id":5
+    },
+    {
+        "name":"CPU",
+        "img":"https://i.ibb.co/hyq97Mq/cpu.jpg",
+        "price":1290,
+        "available":10000,
+        "discriptiom":"Intel's Special Edition Core i9-12900KS was the fastest gaming CPU on the market until AMD's Ryzen 7 5800X3D arrived. This chip is identical to the Core i9-12900K but has special binning",
+        "order":1000,
+        "id":6
+    },
+    {
+        "name":"Mouse Adapter",
+        "img":"https://i.ibb.co/Pz4H1dQ/mouse-adapter.jpg",
+        "price":590,
+        "available":3000,
+        "discriptiom":"Mouse events let you track when a mouse is pressed, released, clicked, moved, dragged, when it enters a component, when it exits and when a mouse wheel is moved.",
+        "order":1000,
+        "id":7
+    },
+    {
+        "name":"MotherBoard",
+        "img":"https://i.ibb.co/PrFMjRw/motherboard.jpg",
+        "price":2200,
+        "available":6000,
+        "discriptiom":"Best Value Budget Motherboard. ASUS ROG Strix B550-F Gaming – Best Overall Budget Motherboard. MSI MPG X570 GAMING EDGE WIFI Motherboard – Best Budget ATX Motherboard. ",
+        "order":1000,
+        "id":8
+    }
+]
