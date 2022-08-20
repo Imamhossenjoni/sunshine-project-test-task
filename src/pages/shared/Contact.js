@@ -28,7 +28,7 @@ const Contact = () => {
                         <input type="text" name='name' placeholder="Enter Your Name..." className="input input-bordered input-lg w-full max-w-xs" required /><br />
                         <input type="email" name='email' placeholder="abc @ gmail.com" className="input input-bordered input-lg w-full max-w-xs mt-2" required /><br />
                         <textarea type='text' name='message' placeholder={user?.displayName ? ` Dear ${user?.displayName}. Please Write Your Message ...` : `Dear Mr/Ms. Please Write Your Message...`} cols='42' rows='5' className='rounded border w-full max-w-xs mt-2 text-center' required></textarea><br />
-                        <input type="submit" value='Send' className="input input-bordered input-lg w-full bg-accent text-white hover:bg-info hover:text-accent max-w-xs font-bold uppercase mt-2" /><br />
+                        <input type="submit" value='Send' className="input input-bordered input-lg w-full bg-accent text-white hover:bg-info hover:text-white max-w-xs font-bold uppercase mt-2" /><br />
                     </form>
                 </div>
             </div>

@@ -3,12 +3,12 @@ import './App.css';
 import { Routes, Route } from "react-router-dom"
 import Nabvar from './pages/shared/Nabvar';
 import Home from './pages/Home/Home'
-import Parts from './pages/Home/Parts';
 import Registration from './pages/shared/Registration';
 import Login from './pages/shared/Login';
 import Services from './pages/Services/Services';
 import RequireAuth from './pages/shared/RequireAuth'
 import Contact from './pages/shared/Contact';
+import Footer from './pages/shared/Footer';
 
 function App() {
   return (
@@ -27,10 +27,7 @@ function App() {
         <Route path='/registration' element={<Registration></Registration>}></Route>
 
       </Routes>
-      {/* <Nabvar></Nabvar>
-      <Parts></Parts>
-      <Registration></Registration>
-      <Login></Login> */}
+      <Footer></Footer>
       <ToastContainer></ToastContainer>
     </div>
   );

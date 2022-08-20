@@ -32,7 +32,7 @@ const Nabvar = () => {
                             {menuItems}
                         </ul>
                     </div>
-                    <a class="btn btn-ghost normal-case text-xl">E-MARKET</a>
+                    <a class="btn btn-ghost normal-case text-2xl font-bold">E-MARKET</a>
                 </div>
                 <div class="navbar-center text-white hidden lg:flex">
                     <ul class="menu menu-horizontal p-0">
