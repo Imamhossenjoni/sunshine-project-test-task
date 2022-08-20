@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Imam Hossen",
+        "email":"imamhossen204@gmail.com",
+        "img":"https://i.ibb.co/ngdhY91/imam-hossen.png",
+        "reviews":"It's make to buy with very easily.I am really surprised and I love this"
+    },
+    {
+        "id":2,
+        "name":"Asibul Haque",
+        "email":"asibulhaque342@gmail.com",
+        "img":"https://i.ibb.co/9rrg5sB/IMG-20220623-114522-removebg.png",
+        "reviews":"This is very intersting marketing. These components is very good."
+    },
+    {
+        "id":3,
+        "name":"Jabed Hossain",
+        "email":"jabed7566@gmail.com",
+        "img":"https://i.ibb.co/nmBsg7t/javed.jpg",
+        "reviews":"What a components sells marketing it is! It is really intesting for me."
+    }
+]

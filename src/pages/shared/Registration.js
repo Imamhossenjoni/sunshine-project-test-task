@@ -24,6 +24,7 @@ const Registration = () => {
      if(user || GUser){
         navigate('/services');
         toast.success('Registration done');
+        alert('Registration Successfully');
      }
 
   
