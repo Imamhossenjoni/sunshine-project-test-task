@@ -22,8 +22,8 @@ const Registration = () => {
      //navigate
      const navigate=useNavigate();
      if(user || GUser){
-        // navigate('/services');
-        toast('Registration done')
+        navigate('/services');
+        toast.success('Registration done');
      }
 
   
